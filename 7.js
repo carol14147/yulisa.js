@@ -1,4 +1,4 @@
-let nota = 85;
+let nota = 82;
 let letra;
 
 if (nota >= 90 && nota <= 100) {

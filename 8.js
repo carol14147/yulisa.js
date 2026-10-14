@@ -1,4 +1,4 @@
-let edad = 20;
+let edad = 19;
 let tieneEntrada = false;
 
 if (edad < 18) {

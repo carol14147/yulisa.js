@@ -1,4 +1,4 @@
-let nota = 3.5;
+let nota = 3.1;
 
 if (nota >= 3) {
     console.log("Aprobado");

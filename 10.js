@@ -1,4 +1,4 @@
-let totalCompra = 120000;
+let totalCompra = 170000;
 let esCliente = true;
 let descuento = 0;
 
